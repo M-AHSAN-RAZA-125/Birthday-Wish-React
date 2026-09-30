@@ -17,9 +17,11 @@ A creative and interactive birthday wish website built with React and TypeScript
 - HTML5
 - CSS3
 
-## 🌐 Live Demo
+## 📸 Preview
 
-[View Birthday Wish Website](https://birthdaywishformyfrnd.netlify.app/)
+![Birthday Wish Preview](birthday-preview.png)
+
+🌐 **Live Demo:** [Birthday Wish Website](https://birthdaywishformyfrnd.netlify.app/)
 
 ## 🚀 Getting Started
 
